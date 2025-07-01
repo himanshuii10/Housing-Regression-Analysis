@@ -1,4 +1,4 @@
-Housing-Regression-Analysis is a machine learning project that explores the Boston Housing dataset to predict median house prices (MEDV) using linear and polynomial regression techniques. This project demonstrates data cleaning, exploratory data analysis (EDA), model training, evaluation, and visualization of residuals and predictions.
+# Housing-Regression-Analysis is a machine learning project that explores the Boston Housing dataset to predict median house prices (MEDV) using linear and polynomial regression techniques. This project demonstrates data cleaning, exploratory data analysis (EDA), model training, evaluation, and visualization of residuals and predictions.
 
    Project Highlights
 ✅ Loaded and cleaned the dataset (handled missing values, dropped rows with NaN)
